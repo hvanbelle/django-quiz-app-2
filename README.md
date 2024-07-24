@@ -1,5 +1,8 @@
 # django-quiz-app-2
 
+## Links
+- https://www.photondesigner.com/articles/quiz-htmx
+
 ## Commands
 - source ./venv/bin/activate
 - python --version
